@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int sum, num1;
+    int sum;
+    int num1;
     num1 = sum = 0;
     for (num1 = 1; num1 < 1000; num1++)
     {
