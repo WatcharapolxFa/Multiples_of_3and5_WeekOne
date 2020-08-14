@@ -9,7 +9,8 @@ int main()
         {
             sum += num1;
         }
-        printf("%d \n ", sum);
     }
+    printf("Answer :  %d \n ", sum);
+    printf(" ----- By Watcharapol -----\n ");
     return 0;
 }
